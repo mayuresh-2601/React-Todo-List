@@ -1,6 +1,6 @@
 # ✅ React Todo List App    
 
-![React Todo List](src/assets/Banner.png)
+![React Todo List](src/assets/Banner.png)    
 
 ![React Todo Banner](https://img.shields.io/badge/React-Todo%20App-blue)
 ![Status](https://img.shields.io/badge/Status-Live-success)
